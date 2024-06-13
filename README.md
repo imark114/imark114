@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakib Khan</h1>
 <h3 align="center">A passionate software developer currently studying Computer Science and Engineering (CSE). Welcome to my GitHub profile!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imark114&label=Profile%20views&color=0e75b6&style=flat" alt="imark114" /> </p>
+
 <img align="center" src="https://camo.githubusercontent.com/8e1202ce5e563895d854dc35a2da302b8f70ef56f127e13853e3e61a9555ba02/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6f6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067" alt="Codder" width="100%" height="auto" />
 
 
@@ -35,13 +35,18 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imark114)](https://github.com/ryo-ma/github-profile-trophy)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imark114&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=imark114&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imark114&theme=dark&hide_border=false)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imark114)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imark114&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imark114&show_icons=true)  
+---
+[![](https://visitcount.itsvg.in/api?id=imark114&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=imark114)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
