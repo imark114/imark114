@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakib Khan</h1>
-#### a passionate software developer currently studying Computer Science and Engineering (CSE). Welcome to my GitHub profile!
+<h3 align="center">A passionate software developer currently studying Computer Science and Engineering (CSE). Welcome to my GitHub profile!</h3>
 
 <img align="center" src="https://media.licdn.com/dms/image/C5612AQFD_-atHwmxuA/article-cover_image-shrink_600_2000/0/1647009253600?e=2147483647&v=beta&t=5ZXakxAsS8PeuF_6xNqyDkJX7fEfAT4MQty_STfYOn4" alt="Codder" width="100%" height="500" />
 
