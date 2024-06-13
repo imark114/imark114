@@ -3,6 +3,8 @@
 
 <img align="center" src="https://media.licdn.com/dms/image/C5612AQFD_-atHwmxuA/article-cover_image-shrink_600_2000/0/1647009253600?e=2147483647&v=beta&t=5ZXakxAsS8PeuF_6xNqyDkJX7fEfAT4MQty_STfYOn4" alt="Codder" width="100%" height="500" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imark114&label=Profile%20views&color=0e75b6&style=flat" alt="imark114" /> </p>
+
 ### 🚀 About Me
 
 - 🎓 I'm a CSE student with a strong foundation in Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), and back-end development.
