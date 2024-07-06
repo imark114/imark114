@@ -1,3 +1,4 @@
+![logo](https://github.com/imark114/imark114/blob/main/Black%20%26%20White%20Geometric%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rakib Khan</h1>
 <h3 align="center">A passionate software developer currently studying Computer Science and Engineering (CSE).</h3>
 
